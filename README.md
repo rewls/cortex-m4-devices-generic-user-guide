@@ -20,7 +20,7 @@
 
 - Chapter 2 The Cortex-M4 Processor - 14
 
-- [Chapter 3 The Cortex-M4 Instruction Set](3-the-cortex-m4-intruction-set.md) - 48
+- [Chapter 3 The Cortex-M4 Instruction Set](3-the-cortex-m4-instruction-set.md) - 48
 
 - Chapter 4 Cortex-M Peripherals - 217
 
